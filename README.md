@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/AkhilChauhan-UK/MyPortfolio.git)
 
-- 🌱 I’m currently learning more about **django, redis, docker etc.**
+- 🌱 I’m currently learning more about **MERN, redis, docker etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkhilChauhan-UK/MyPortfolio.git](https://github.com/AkhilChauhan-UK/MyPortfolio.git)
 
